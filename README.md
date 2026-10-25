@@ -1,3 +1,3 @@
-# V1
+# finanace tracker
 
 creating my finance tracker v1.0
